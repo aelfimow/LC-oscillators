@@ -32,3 +32,8 @@ A collection of self-made LC oscillators.
 ## LC oscillator 8
 ![Schematics](oscillator-8/schematics.jpg)
 ![Top view](oscillator-8/top.jpg)
+
+## LC oscillator 9
+![Schematics](oscillator-9/schematics.jpg)
+![Top view](oscillator-9/top.jpg)
+![Top view](oscillator-9/bottom.jpg)
