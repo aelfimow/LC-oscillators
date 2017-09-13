@@ -20,3 +20,7 @@ A collection of self-made LC oscillators.
 ## LC oscillator 5
 ![Schematics](oscillator-5/schematics.jpg)
 ![Top view](oscillator-5/top.jpg)
+
+## LC oscillator 6
+![Schematics](oscillator-6/schematics.jpg)
+![Top view](oscillator-6/top.jpg)
